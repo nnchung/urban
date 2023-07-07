@@ -10,7 +10,7 @@
 
 # Reference: Lock Yue Chew, Ning Ning Chung, Wen Xuan Sia, Hoai Nguyen Huynh, Glenn Sim, Alvin Chua, and Zhongwen Huang.
 # A Data Analytic Elucidation on the Spatial Agglomeration of Singapore Maritime Industry.
-# International Journal on Smart and Sustainable Cities, 2340001 (2023).
+# International Journal on Smart and Sustainable Cities 1, 2340001 (2023).
 
 ########################################################################################################################
 import pandas as pd
